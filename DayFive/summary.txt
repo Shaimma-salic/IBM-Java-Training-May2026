@@ -1,0 +1,15 @@
+Log Summary Report
+------------------
+Total Entries: 10
+INFO: 4
+WARN: 2
+ERROR: 4
+
+Error Messages:
+- Database connection failed
+- Timeout while reading data
+- Failed to load configuration file
+- Unhandled exception
+
+Earliest Timestamp: 2024-05-10 14:22:01
+Latest Timestamp: 2024-05-10 16:45:55

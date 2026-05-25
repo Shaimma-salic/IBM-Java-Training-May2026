@@ -1,0 +1,10 @@
+[2024-05-10 14:22:01] INFO: User logged in
+[2024-05-10 14:22:05] ERROR: Database connection failed
+[2024-05-10 14:22:10] WARN: High memory usage detected
+[2024-05-10 14:22:15] ERROR: Timeout while reading data
+[2024-05-10 16:45:33] INFO: Server restarted
+[2024-05-10 16:45:35] INFO: User logged out
+[2024-05-10 16:45:40] ERROR: Failed to load configuration file
+[2024-05-10 16:45:45] WARN: Disk space running low
+[2024-05-10 16:45:50] INFO: Backup completed successfully
+[2024-05-10 16:45:55] ERROR: Unhandled exception
