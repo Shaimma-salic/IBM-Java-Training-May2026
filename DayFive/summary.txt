@@ -1,15 +1,20 @@
 Log Summary Report
 ------------------
-Total Entries: 10
-INFO: 4
-WARN: 2
-ERROR: 4
+Total Entries: 87
+INFO: 68
+WARN: 10
+ERROR: 9
 
 Error Messages:
-- Database connection failed
-- Timeout while reading data
-- Failed to load configuration file
-- Unhandled exception
+- Failed to connect to external API
+- NullPointerException in UserService.java line 87
+- Timeout while reading data from database
+- FileNotFoundException in ConfigLoader.java line 45
+- Unauthorized access attempt detected
+- Assertion failed in TestCase #45
+- Unable to parse JSON response from API
+- SMTP server not responding
+- Audit log write failure
 
-Earliest Timestamp: 2024-05-10 14:22:01
-Latest Timestamp: 2024-05-10 16:45:55
+Earliest Timestamp: 2024-05-10 09:00:00
+Latest Timestamp: 2024-05-10 09:04:18
