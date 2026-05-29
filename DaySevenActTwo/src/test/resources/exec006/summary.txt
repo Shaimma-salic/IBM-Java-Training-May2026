@@ -1,0 +1,12 @@
+Log Summary Report
+------------------
+Total Entries: 3
+INFO: 1
+WARN: 1
+ERROR: 1
+
+Error Messages:
+- Server timeout
+
+Earliest Timestamp: 2024-05-10T14:22:01
+Latest Timestamp: 2024-05-10T14:22:30
